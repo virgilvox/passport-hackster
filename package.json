@@ -1,0 +1,22 @@
+{
+  "name": "passport-hackster",
+  "version": "1.0.0",
+  "description": "Passport for Hackster.io oauth2",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgilvox/passport-hackster.git"
+  },
+  "author": "Moheeb Zara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgilvox/passport-hackster/issues"
+  },
+  "homepage": "https://github.com/virgilvox/passport-hackster#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.3.0"
+  }
+}
