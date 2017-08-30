@@ -1,6 +1,6 @@
 {
   "name": "passport-hackster",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Passport for Hackster.io oauth2",
   "main": "./lib",
   "scripts": {
